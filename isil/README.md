@@ -1,8 +1,6 @@
 # ISIL
 ISIL is the International Standard Identifier for Libraries and Related Organisations (ISO 15511). The ISIL-System is designed for international use and integrates already existing identifiers on national and international level.
 
-ISIL is being supervised by the [ISIL Registration Authority](http://biblstandard.dk/isil/) in Kopenhagen.
-
 ## W3ID for ISIL
 W3IDs are currently supported for AT-\*, AU-\*, DE-\*, FI-\*, FR-\*, IT-\*, JP-\*, NZ-\*, BE-\*, CA-\*, KR-\*, NO-\*, LU-\*, QA-\*, RO-\*, SI-\*, SK-\*, RU-\*, CY-\*, US-\* and ZDB-\* ISILs.
 
